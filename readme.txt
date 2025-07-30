@@ -1,6 +1,6 @@
 Description (07/25/2025)
 
-1. Original GHCN-hourly data in psv format is stored in Zenodo [https://doi.org/10.5281/zenodo.15996334]. Please download from there and place in the folder "/data_raw/GHCNh_Texas".
+1. Original GHCN-hourly data in psv format is stored in Zenodo [https://doi.org/10.5281/zenodo.16305657]. Please download from there and place in the folder "/data_raw/GHCNh_WA".
 
 2. "/data_clean" contains the final practical data of Washington average temperature and estimated density; the others are Nino 3.4, county populations, and WA electricity. These are used in later steps S0, S1 and S2.
     2a. The code will create a directory named "data_intermediate".
